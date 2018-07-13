@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="/myblog/Public/Css/common.css" />
+	<script type="text/JavaScript" src='/myblog/Public/Js/jquery-1.7.2.min.js'></script>
+	<script type="text/JavaScript" src='/myblog/Public/Js/common.js'></script>
+	<link rel="stylesheet" href="/myblog/Public/Css/show.css" />
+	<link rel="stylesheet" href="/myblog/Data/Ueditor/third-party/SyntaxHighlighter/shCoreDefault.css">
+	<script src="/myblog/Data/Ueditor/third-party/SyntaxHighlighter/shCore.js"></script>
+	<script>
+   		SyntaxHighlighter.all();
+	</script>
+</head>
+<body>
+<!--头部-->
+	<div class='top-list-wrap'>
+		<div class='top-list'>
+			<ul class='l-list'>
+				<li><a href="http://www.houdunwang.com" target='_blank'>后盾网</a></li>
+				<li><a href="http://bbs.houdunwang.com" target='_blank'>后盾网论坛</a></li>
+				<li><a href="http://study.houdunwang.com" target='_blank'>后盾学习社区</a></li>
+			</ul>
+			<ul class='r-list'>
+				<li><a href="http://www.hdphp.com" target='_blank'>HDPHP框架</a></li>
+				<li><a href="http://bbs.houdunwang.com" target='_blank'>免费视频教程</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='top-search-wrap'>
+		<div class='top-search'>
+			<a href="http://bbs.houdunwang.com" target='_blank' class='logo'>
+				<img src="/myblog/Public./Images/logo.png"/>
+			</a>
+			<div class='search-wrap'>
+				<form action="" method='get'>
+					<input type="text" name='keyword' class='search-content'/>
+					<input type="submit" name='search' value='搜索'/>
+				</form>
+			</div>
+		</div>
+	</div>
+		<div class='top-nav-wrap'>
+		<ul class='nav-lv1'>
+			<li class='nav-lv1-li'>
+				<a href="/myblog" class='top-cate'>博客首页</a>
+			</li>
+			<li class='nav-lv1-li'>
+					<a href="/myblog/c_1.html" class='top-cate'>HTML</a>
+									</li><li class='nav-lv1-li'>
+					<a href="/myblog/c_2.html" class='top-cate'>DIV+CSS</a>
+									</li><li class='nav-lv1-li'>
+					<a href="/myblog/c_3.html" class='top-cate'>JavaSvript</a>
+					<ul>
+							<li><a href="/myblog/c_3.html">jQuery</a></li><li><a href="/myblog/c_3.html">Ajax</a></li>						</ul>				</li><li class='nav-lv1-li'>
+					<a href="/myblog/c_4.html" class='top-cate'>PHP</a>
+					<ul>
+							<li><a href="/myblog/c_4.html">字符串</a></li><li><a href="/myblog/c_4.html">数组</a></li><li><a href="/myblog/c_4.html">对象</a></li>						</ul>				</li><li class='nav-lv1-li'>
+					<a href="/myblog/c_5.html" class='top-cate'>MySQL</a>
+					<ul>
+							<li><a href="/myblog/c_5.html">存储引擎</a></li><li><a href="/myblog/c_5.html">事务</a></li><li><a href="/myblog/c_5.html">视图</a></li><li><a href="/myblog/c_5.html">存储过程</a></li>						</ul>				</li><li class='nav-lv1-li'>
+					<a href="/myblog/c_6.html" class='top-cate'>Linux</a>
+					<ul>
+							<li><a href="/myblog/c_6.html">基本命令</a></li><li><a href="/myblog/c_6.html">网络配置</a></li>						</ul>				</li><li class='nav-lv1-li'>
+					<a href="/myblog/c_7.html" class='top-cate'>其他</a>
+									</li>		</ul>
+	</div>
+<!--主体-->
+	<div class='main'>
+		<div class='main-left'>
+			<div class='location'>
+				<a href="">首页</a>>
+				<a href="/myblog/c_4.html">PHP</a>><a href="/myblog/c_12.html">对象</a>			</div>
+			<div class="title">
+				<p>无限极分类</p>
+				<div>
+					<span class='fl'>发布于：2017年09月10日</span>
+					<span class='fr'>已被阅读<script src='/myblog/Index/Show/setClick/id/5.html'></script>次</span>
+				</div>
+			</div>
+			<div class='content' style="word-break:break-all"><p>&lt;?php</p><p><span class="Apple-tab-span" style="white-space:pre">	</span>class Category{</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>//组合一维数组</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>Static Public function Levelmerger($cate,$html=&quot;--&amp;nbsp;&amp;nbsp;&quot;,$pid= 0,$level= 0){</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>$arr=array();</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>foreach ($cate as $v) {</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>if($v[&#39;pid&#39;] == $pid){</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$v[&#39;level&#39;] =$level+1;</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$v[&#39;html&#39;] = str_repeat($html, $level);</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$arr[] = $v;</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$arr = array_merge($arr,self::Levelmerger($cate,$html,$v[&#39;id&#39;],$level+1));</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>return $arr;</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>//组合多维数组</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>Static Public function unlimitForLayer($cate,$name=&#39;child&#39; ,$pid = 0){</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>$arr=array();</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>foreach ($cate as &nbsp;$v) { &nbsp;&nbsp;</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>if($v[&#39;pid&#39;] == $pid){</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$v[$name]=self::unlimitForLayer($cate,$name,$v[&#39;id&#39;]);</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$arr[] = $v;</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>return $arr;<span class="Apple-tab-span" style="white-space:pre">		</span></p><p><span class="Apple-tab-span" style="white-space:pre">			</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>//传递一个父级分类ID返回所有子分类ID</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>Static Public function getParents($cate,$id){</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>$arr = array();</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>foreach ($cate as $v) {</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>if($v[&#39;id&#39;] == $id ) {</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$arr[] = $v;</p><p><span class="Apple-tab-span" style="white-space:pre">						</span>$arr = array_merge(self::getParents($cate,$v[&#39;pid&#39;]),$arr); &nbsp;//改变顺序。让父级的在前边</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>return $arr;</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>//传递一个父级分类ID返回所有子分类的ID</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>Static Public function getChildsId ($cate,$pid=0){</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>$arr = array();</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>foreach ($cate as $v) {</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>if($v[&#39;pid&#39;] == $pid){</p><p><span class="Apple-tab-span" style="white-space:pre">							</span>$arr[] = $v[&#39;id&#39;];&nbsp;</p><p><span class="Apple-tab-span" style="white-space:pre">							</span>$arr = array_merge($arr,self::getChildsId($cate,$v[&#39;id&#39;]));</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>return $arr;</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>//传递一个父级分类ID返回所有子级分类</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>Static Public function getChilds($cate,$pid){</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>$arr = array();</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>foreach ($cate as $v) {</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>if ($v[&#39;pid&#39;] == $pid) {</p><p><span class="Apple-tab-span" style="white-space:pre">							</span>$arr[] = $v;</p><p><span class="Apple-tab-span" style="white-space:pre">							</span>$arr = array_merge($arr,self::getChilds($cate,$v[&#39;id&#39;]));</p><p><span class="Apple-tab-span" style="white-space:pre">					</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">				</span>return $arr;</p><p><span class="Apple-tab-span" style="white-space:pre">			</span>}</p><p><span class="Apple-tab-span" style="white-space:pre">	</span>}</p><p>?&gt;</p><p><br/></p></div>
+		</div>
+	<!--主体右侧-->
+		<div class='main-right'>
+			<dl>
+		<dt>热门博文</dt>
+		<dd>
+				<a href="/myblog/5.html">无限极分类</a>
+					<span>108</span>
+			</dd><dd>
+				<a href="/myblog/2.html">王笨笨</a>
+					<span>100</span>
+			</dd>	</dl>	
+		<!-- 	$field = array('id','content','click');
+			$blog= M("blog")->field($field)->order('click DESC')->limit(5)->select();
+		
+			<dl>
+				<dt>热门博文</dt>
+					<dd>
+							<a href="/myblog/5.html">5</a>
+								<span>5</span>
+						</dd><dd>
+							<a href="/myblog/�.html">�</a>
+								<span>�</span>
+						</dd><dd>
+							<a href="/myblog/1.html">1</a>
+								<span>1</span>
+						</dd><dd>
+							<a href="/myblog/<.html"><</a>
+								<span><</span>
+						</dd><dd>
+							<a href="/myblog/1.html">1</a>
+								<span>1</span>
+						</dd>			</dl> -->
+
+			<dl>
+	<dt>最发布发</dt>
+	<dd>
+			<a href="/myblog/5.html">无限极分类</a>
+			<span>108</span>
+		</dd><dd>
+			<a href="/myblog/4.html">王大宝</a>
+			<span>100</span>
+		</dd></dl>			<dl>
+				<dt>友情连接</dt>
+				<dd>
+					<a href="">后盾网</a>
+				</dd>
+
+				<dd>
+					<a href="">后盾网论坛</a>
+				</dd>
+				<dd>
+					<a href="">后盾网学习社区</a>
+				</dd>
+			</dl>
+	</div>
+	
+	</div>
+<!--底部-->
+	
+</body>
+</html>

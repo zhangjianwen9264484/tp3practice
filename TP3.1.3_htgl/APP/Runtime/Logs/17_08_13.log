@@ -1,0 +1,593 @@
+[ 2017-08-13T08:10:59+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.045278s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = '' ) LIMIT 1   [ RunTime:0.000187s ]
+
+[ 2017-08-13T08:11:08+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013689s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000214s ]
+
+[ 2017-08-13T08:11:15+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.051098s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000197s ]
+
+[ 2017-08-13T08:13:15+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013884s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000265s ]
+
+[ 2017-08-13T08:13:18+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.039291s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000188s ]
+
+[ 2017-08-13T08:13:24+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.008578s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000199s ]
+
+[ 2017-08-13T08:13:28+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.017096s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000389s ]
+
+[ 2017-08-13T08:13:31+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.008480s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000439s ]
+
+[ 2017-08-13T08:13:41+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.027564s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000170s ]
+
+[ 2017-08-13T08:13:53+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.010246s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000216s ]
+
+[ 2017-08-13T08:14:00+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.087700s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000351s ]
+
+[ 2017-08-13T08:16:48+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.016303s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000571s ]
+
+[ 2017-08-13T08:16:54+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.031855s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000173s ]
+
+[ 2017-08-13T08:17:07+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.033275s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000190s ]
+
+[ 2017-08-13T08:17:07+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.049509s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000166s ]
+
+[ 2017-08-13T08:17:17+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011396s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000219s ]
+
+[ 2017-08-13T08:17:20+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.050921s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000202s ]
+
+[ 2017-08-13T08:17:38+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.009876s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000175s ]
+
+[ 2017-08-13T08:18:45+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013733s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000313s ]
+
+[ 2017-08-13T08:18:54+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.033882s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000204s ]
+
+[ 2017-08-13T08:41:44+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.030705s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000216s ]
+
+[ 2017-08-13T08:41:48+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012490s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000281s ]
+
+[ 2017-08-13T08:41:53+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.037622s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000200s ]
+
+[ 2017-08-13T08:42:41+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.009329s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000561s ]
+
+[ 2017-08-13T08:44:55+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.015416s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000610s ]
+
+[ 2017-08-13T08:45:02+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.035953s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000263s ]
+
+[ 2017-08-13T08:45:13+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.054495s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000185s ]
+
+[ 2017-08-13T08:45:46+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011420s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000248s ]
+
+[ 2017-08-13T08:45:50+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.032176s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000149s ]
+
+[ 2017-08-13T08:46:09+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.012462s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000277s ]
+
+[ 2017-08-13T08:46:14+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.024006s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000170s ]
+
+[ 2017-08-13T08:49:58+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/user
+ERR: 模板不存在[./APP/Modules/Admin/Tpl/Rbac_user.html]
+
+[ 2017-08-13T08:50:54+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.015386s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000343s ]
+
+[ 2017-08-13T08:51:00+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.033764s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000178s ]
+
+[ 2017-08-13T08:53:26+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.015181s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000336s ]
+
+[ 2017-08-13T08:53:31+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.038224s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000197s ]
+
+[ 2017-08-13T08:54:28+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.016078s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000350s ]
+
+[ 2017-08-13T08:54:33+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.033781s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user' ) LIMIT 1   [ RunTime:0.000197s ]
+
+[ 2017-08-13T08:55:18+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.010816s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000250s ]
+
+[ 2017-08-13T08:55:23+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.023705s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000173s ]
+
+[ 2017-08-13T08:55:45+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.011922s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000282s ]
+
+[ 2017-08-13T08:55:50+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.050436s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000209s ]
+
+[ 2017-08-13T08:57:00+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.050383s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000196s ]
+
+[ 2017-08-13T08:57:07+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.060476s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000217s ]
+
+[ 2017-08-13T08:57:14+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.051463s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000187s ]
+
+[ 2017-08-13T08:57:19+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.008466s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000160s ]
+
+[ 2017-08-13T08:57:56+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.013042s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000222s ]
+
+[ 2017-08-13T08:58:00+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.052525s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000335s ]
+
+[ 2017-08-13T08:58:22+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.031734s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000207s ]
+
+[ 2017-08-13T08:58:28+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.007632s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000217s ]
+
+[ 2017-08-13T08:58:36+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.105682s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000201s ]
+
+[ 2017-08-13T08:59:02+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.014285s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user·' ) LIMIT 1   [ RunTime:0.000303s ]
+
+[ 2017-08-13T08:59:05+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.017725s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000392s ]
+
+[ 2017-08-13T08:59:09+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.034347s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000236s ]
+
+[ 2017-08-13T08:59:17+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.062407s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000207s ]
+
+[ 2017-08-13T08:59:23+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.010213s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user1' ) LIMIT 1   [ RunTime:0.000194s ]
+
+[ 2017-08-13T08:59:41+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.018741s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000410s ]
+
+[ 2017-08-13T08:59:47+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.033968s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'user2' ) LIMIT 1   [ RunTime:0.000173s ]
+
+[ 2017-08-13T08:59:58+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.052907s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000195s ]
+
+[ 2017-08-13T09:00:01+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.041428s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.000177s ]
+

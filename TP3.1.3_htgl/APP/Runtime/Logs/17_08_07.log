@@ -1,0 +1,107 @@
+[ 2017-08-07T08:28:06+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.009949s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'Admin' ) LIMIT 1   [ RunTime:0.000200s ]
+
+[ 2017-08-07T08:28:13+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.037339s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'Admin' ) LIMIT 1   [ RunTime:0.000143s ]
+
+[ 2017-08-07T09:03:02+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/user
+ERR: 非法操作:user
+
+[ 2017-08-07T09:03:17+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/user
+ERR: 非法操作:user
+
+[ 2017-08-07T09:51:24+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:51:30+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:52:31+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:52:32+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/user
+ERR: 非法操作:user
+
+[ 2017-08-07T09:52:39+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/user
+ERR: 非法操作:user
+
+[ 2017-08-07T09:52:55+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:54:30+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:54:31+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:54:31+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:54:32+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T09:54:33+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: Model:relation您所请求的方法不存在！
+
+[ 2017-08-07T10:28:04+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: XML标签语法错误 : condition='<{$v["lock"]}
+
+[ 2017-08-07T10:28:13+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: XML标签语法错误 : condition='<{$v["lock"]}
+
+[ 2017-08-07T10:39:57+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: XML标签语法错误 : condition='$v.name' ==C("RBAC_SUPPERADMIN")
+
+[ 2017-08-07T10:40:21+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: XML标签语法错误 : condition='$v.username' ==C("RBAC_SUPPERADMIN")
+
+[ 2017-08-07T10:40:41+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/index
+ERR: XML标签语法错误 : condition='$v[username]' ==C("RBAC_SUPPERADMIN")
+
+[ 2017-08-07T11:05:38+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/Admin/Rbac/user
+ERR: 非法操作:user
+
+[ 2017-08-07T11:07:25+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.014777s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'Admin' ) LIMIT 1   [ RunTime:0.000328s ]
+
+[ 2017-08-07T11:07:30+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.043867s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'Admin' ) LIMIT 1   [ RunTime:0.000204s ]
+
+[ 2017-08-07T11:07:48+08:00 ] 127.0.0.1 /TP3.1.3_Admin/index.php/admin/Login/checkName
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.007867s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\wamp\www\phpfile\TP3.1.3_Admin\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `think_user` WHERE ( `username` = 'Admin' ) LIMIT 1   [ RunTime:0.000165s ]
+

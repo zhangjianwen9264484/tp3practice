@@ -1,0 +1,32 @@
+	<div class='main-right'>
+		<{:W('Hot',array(limit=>'2'))}>
+	
+		<!-- 	$field = array('id','content','click');
+			$blog= M("blog")->field($field)->order('click DESC')->limit(5)->select();
+		
+			<dl>
+				<dt>热门博文</dt>
+					<foreach name="blog" item="v">
+						<dd>
+							<a href="<{:U('/'.$v['id'])}>"><{$v.content}></a>
+								<span><{$v.click}></span>
+						</dd>
+					</foreach>
+			</dl> -->
+
+			<{:W('New',array(limit=>'2'))}>
+			<dl>
+				<dt>友情连接</dt>
+				<dd>
+					<a href="">后盾网</a>
+				</dd>
+
+				<dd>
+					<a href="">后盾网论坛</a>
+				</dd>
+				<dd>
+					<a href="">后盾网学习社区</a>
+				</dd>
+			</dl>
+	</div>
+	
